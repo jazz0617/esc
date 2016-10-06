@@ -8,4 +8,6 @@ void main()
 	
 	printf("After commit!\n");
 	printf("After branch!!\n");
+
+	printf("Hello Github!n");
 }
