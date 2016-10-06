@@ -7,4 +7,5 @@ void main()
 	func2();
 	
 	printf("After commit!\n");
+	printf("After branch!!\n");
 }
